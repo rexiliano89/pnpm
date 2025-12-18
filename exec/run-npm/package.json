@@ -31,7 +31,7 @@
     "@types/cross-spawn": "catalog:"
   },
   "dependencies": {
-    "cross-spawn": "catalog:",
+    "cross-spawn": "7.0.5",
     "path-name": "catalog:"
   },
   "funding": "https://opencollective.com/pnpm",
