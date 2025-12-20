@@ -88,7 +88,7 @@
     "@pnpm/types": "workspace:*",
     "@pnpm/workspace.find-packages": "workspace:*",
     "@pnpm/workspace.pkgs-graph": "workspace:*",
-    "@yarnpkg/core": "catalog:",
+    "@yarnpkg/core": "4.1.6",
     "@yarnpkg/lockfile": "catalog:",
     "@yarnpkg/parsers": "catalog:",
     "@zkochan/rimraf": "catalog:",
