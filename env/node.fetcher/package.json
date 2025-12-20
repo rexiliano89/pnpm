@@ -44,7 +44,7 @@
     "adm-zip": "catalog:",
     "detect-libc": "catalog:",
     "rename-overwrite": "catalog:",
-    "tempy": "catalog:"
+    "tempy": "3.0.0"
   },
   "devDependencies": {
     "@pnpm/cafs-types": "workspace:*",
