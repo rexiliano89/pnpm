@@ -71,7 +71,7 @@
     "render-help": "catalog:",
     "safe-execa": "catalog:",
     "semver": "catalog:",
-    "tempy": "catalog:",
+    "tempy": "3.0.0",
     "terminal-link": "catalog:"
   },
   "peerDependencies": {
