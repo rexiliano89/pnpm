@@ -39,7 +39,7 @@
     "@pnpm/error": "workspace:*",
     "@pnpm/git-utils": "workspace:*",
     "@pnpm/matcher": "workspace:*",
-    "@pnpm/npm-conf": "catalog:",
+    "@pnpm/npm-conf": "3.0.2",
     "@pnpm/pnpmfile": "workspace:*",
     "@pnpm/read-project-manifest": "workspace:*",
     "@pnpm/types": "workspace:*",
